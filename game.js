@@ -78,3 +78,4 @@ function startOver(){
     userPattern=[];
     started=false;
 }
+//lkfsenkjefnjken
